@@ -1,2 +1,4 @@
-This is the first test of the version control for this file
+This is the first test of the version control for this file.
+This is the second line of text for check.
 
+This is the third and final line for the check.
